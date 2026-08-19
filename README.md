@@ -10,6 +10,6 @@ This repository contains my Data Structures and Algorithms (DSA) practice, imple
 
 This repository is maintained to improve problem-solving skills, strengthen DSA concepts, and prepare for coding interviews and competitive programming.
 
-## 👨‍💻 Author
+## Author
 
 Saurav Pandit
